@@ -23,3 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+
+node_modules
+
+
+package-lock.json
+sora img.webp 
+public/models/
